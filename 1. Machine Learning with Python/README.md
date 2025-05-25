@@ -1,6 +1,6 @@
 <h1> 1. Machine Learning with Python </h1>
 
-Course Outline:
+## Course Outline
 
 1. [Week 1: Introduction to Machine Learning](./Week1/C1-W1-Notes.md)
 2. [Week 2: Linear and Logistic Regression](./Week2/C1-W2-Notes.md)
